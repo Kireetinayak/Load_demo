@@ -6,7 +6,7 @@ Action()
 
 	web_add_header("X-P2P-PeerDistEx", 
 		"MinContentInformation=1.0, MaxContentInformation=1.0");
-//This is the change i did====================================================
+
 	web_url("blazedemo.com", 
 		"URL=http://blazedemo.com/", 
 		"Resource=0", 
