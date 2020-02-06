@@ -1,0 +1,12 @@
+POST http://blazedemo.com/reserve.php HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Referer: http://blazedemo.com/
+Accept-Language: en-US
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko
+Content-Type: application/x-www-form-urlencoded
+Accept-Encoding: gzip, deflate
+Content-Length: 31
+Host: blazedemo.com
+Proxy-Connection: Keep-Alive
+Pragma: no-cache
+

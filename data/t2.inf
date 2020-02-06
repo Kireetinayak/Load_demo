@@ -1,0 +1,13 @@
+[t2]
+FileName1=t2.htm
+URL1=http://blazedemo.com/reserve.php
+Total=2
+RequestHeaderFile=t2_RequestHeader.txt
+RequestBodyFile=t2_RequestBody.txt
+ResponseHeaderFile=t2_ResponseHeader.txt
+ContentType=text/html
+SnapshotXmlFile=snapshot_2.xml
+FileName2=t2_favicon.ico
+URL2=http://blazedemo.com/favicon.ico
+[ProtocolInfo]
+ProtocolId=QTWeb

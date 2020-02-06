@@ -1,0 +1,293 @@
+{
+  "FilterHeaders": [
+    {
+      "Header": "x-p2p-peerdistex",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "x-p2p-peerdist",
+      "IncludeInScript": true
+    },
+    {
+      "Header": "user-agent",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "pragma",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-language",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept-encoding",
+      "IncludeInScript": false
+    },
+    {
+      "Header": "accept",
+      "IncludeInScript": false
+    }
+  ],
+  "FilterResources": [
+    {
+      "IsNonResource": false,
+      "type": "text/javascript"
+    },
+    {
+      "IsNonResource": true,
+      "type": "text/html"
+    },
+    {
+      "IsNonResource": false,
+      "type": "text/css"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/x-icon"
+    },
+    {
+      "IsNonResource": false,
+      "type": "image/png"
+    }
+  ],
+  "GeneralInfo": {
+    "BrowserVersion": "",
+    "MaxUsedConnections": 5,
+    "RecordedBrowser": "Internet Explorer",
+    "RecordingDate": "Feb-04-2020",
+    "RecordingDuration": 50047,
+    "RecordingTimeStamp": 1580798271,
+    "TotalBytesReceived": 278775,
+    "TotalBytesSent": 4673,
+    "TotalRequests": 11
+  },
+  "HostInfo": [
+    {
+      "DomainName": "nr-data.net",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "162.247.242.20",
+          "IncludeInScript": false,
+          "Name": "bam.nr-data.net",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 297,
+              "EventId": 428,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://bam.nr-data.net/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkYQRFZeWENSTBMNFA%3D%3D&rst=531&ref=http://blazedemo.com/purchase.php&ap=11&be=367&fe=525&dc=422&perf=%7B%22timing%22:%7B%22of%22:1580798348519,%22n%22:0,%22u%22:334,%22ue%22:334,%22f%22:54,%22dn%22:54,%22dne%22:54,%22c%22:54,%22ce%22:54,%22rq%22:56,%22rp%22:242,%22rpe%22:380,%22dl%22:242,%22di%22:422,%22ds%22:422,%22de%22:451,%22dc%22:524,%22l%22:524,%22le%22:527%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 281,
+              "EventId": 413,
+              "HttpStatus": 200,
+              "Size": 24,
+              "URL": "https://bam.nr-data.net/events/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkQARVBET1UZEgsV&rst=6396&ref=http://blazedemo.com/reserve.php&e=bel.6;e,'fi,k67iis05,2;5,'type,'pointerdown;6,'fid,14."
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 281,
+              "EventId": 405,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://bam.nr-data.net/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSkQARVBET1UZEgsV&rst=910&ref=http://blazedemo.com/reserve.php&ap=9&be=690&fe=891&dc=745&perf=%7B%22timing%22:%7B%22of%22:1580798342453,%22n%22:0,%22u%22:517,%22ue%22:517,%22f%22:53,%22dn%22:53,%22dne%22:53,%22c%22:53,%22ce%22:53,%22rq%22:70,%22rp%22:320,%22rpe%22:505,%22dl%22:320,%22di%22:744,%22ds%22:744,%22de%22:776,%22dc%22:890,%22l%22:891,%22le%22:897%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/gif",
+              "DownloadTime": 360,
+              "EventId": 401,
+              "HttpStatus": 200,
+              "Size": 24,
+              "URL": "https://bam.nr-data.net/events/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSg%3D%3D&rst=38600&ref=http://blazedemo.com/&e=bel.6;e,'fi,k67iiire,2;5,'type,'pointerdown;6,'fid,25."
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 422,
+              "EventId": 306,
+              "HttpStatus": 200,
+              "Size": 57,
+              "URL": "https://bam.nr-data.net/1/338cffe5d3?a=6657625&v=1158.afc605b&to=YVxSYxACCxcEVRFfWlgWcVQWCgoKSg%3D%3D&rst=11338&ref=http://blazedemo.com/&ap=9&be=2830&fe=3435&dc=3169&perf=%7B%22timing%22:%7B%22of%22:1580798304365,%22n%22:0,%22f%22:0,%22dn%22:6,%22dne%22:6,%22c%22:6,%22ce%22:6,%22rq%22:6,%22rp%22:6,%22rpe%22:2324,%22dl%22:6,%22di%22:3158,%22ds%22:3158,%22de%22:3193,%22dc%22:3434,%22l%22:3434,%22le%22:3536%7D,%22navigation%22:%7B%7D%7D&at=TRtRFVgYGBk%3D&jsonp=NREUM.setToken"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "newrelic.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "151.101.158.110",
+          "IncludeInScript": false,
+          "Name": "js-agent.newrelic.com",
+          "Port": 443,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "application/javascript",
+              "DownloadTime": 187,
+              "EventId": 91,
+              "HttpStatus": 200,
+              "Size": 10068,
+              "URL": "https://js-agent.newrelic.com/nr-1158.min.js"
+            }
+          ],
+          "SSLCipher": "ECDHE-RSA-AES128-SHA",
+          "SSLVersion": "TLS1.1"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "googleapis.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "172.217.163.42",
+          "IncludeInScript": true,
+          "Name": "ajax.googleapis.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "gzip",
+              "DataType": "text/javascript",
+              "DownloadTime": 94,
+              "EventId": 17,
+              "HttpStatus": 200,
+              "Size": 29195,
+              "URL": "http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    },
+    {
+      "DomainName": "blazedemo.com",
+      "Domains": [
+        {
+          "HTTPVersion": "HTTP/1.1",
+          "IP": "35.156.202.23",
+          "IncludeInScript": true,
+          "Name": "blazedemo.com",
+          "Port": 80,
+          "Requests": [
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 172,
+              "EventId": 407,
+              "HttpStatus": 200,
+              "Size": 12432,
+              "URL": "http://blazedemo.com/purchase.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 250,
+              "EventId": 403,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://blazedemo.com/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 235,
+              "EventId": 393,
+              "HttpStatus": 200,
+              "Size": 13049,
+              "URL": "http://blazedemo.com/reserve.php"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/x-icon",
+              "DownloadTime": 359,
+              "EventId": 74,
+              "HttpStatus": 200,
+              "Size": 0,
+              "URL": "http://blazedemo.com/favicon.ico"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "image/png",
+              "DownloadTime": 62,
+              "EventId": 65,
+              "HttpStatus": 200,
+              "Size": 15602,
+              "URL": "http://blazedemo.com/img/glyphicons-halflings.png"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 94,
+              "EventId": 42,
+              "HttpStatus": 200,
+              "Size": 126461,
+              "URL": "http://blazedemo.com/assets/bootstrap.min.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/css",
+              "DownloadTime": 47,
+              "EventId": 31,
+              "HttpStatus": 200,
+              "Size": 3765,
+              "URL": "http://blazedemo.com/assets/bootstrap-table.css"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 31,
+              "EventId": 29,
+              "HttpStatus": 200,
+              "Size": 39170,
+              "URL": "http://blazedemo.com/assets/bootstrap-table.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/javascript",
+              "DownloadTime": 46,
+              "EventId": 27,
+              "HttpStatus": 200,
+              "Size": 28663,
+              "URL": "http://blazedemo.com/assets/bootstrap.min.js"
+            },
+            {
+              "CompressionType": "",
+              "DataType": "text/html",
+              "DownloadTime": 406,
+              "EventId": 6,
+              "HttpStatus": 200,
+              "Size": 10438,
+              "URL": "http://blazedemo.com/"
+            }
+          ],
+          "SSLCipher": "None",
+          "SSLVersion": "None"
+        }
+      ],
+      "IncludeInScript": true
+    }
+  ],
+  "WebSocket": {
+    "IncludeInScript": false,
+    "IsScriptIncludeWebSocket": false
+  },
+  "NumberOfCorrelations": 1
+}
